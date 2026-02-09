@@ -38,8 +38,8 @@ switch (opcionU)
     }
 
     Console.WriteLine("===== RESUMEN DEL PEDIDO =====");
-    Console.WriteLine($"Tipo de pizza {tipoPizza}");
-    Console.WriteLine($"Ingredientes Salsa de tomate, mozzarella y {ingVeg[eleccionU-1]}");
+    Console.WriteLine($"Tipo de pizza: {tipoPizza}");
+    Console.WriteLine($"Ingredientes: Tomate, mozzarella, {ingVeg[eleccionU-1]}.");
     break;
 
     case 2:
@@ -68,8 +68,8 @@ switch (opcionU)
     }
 
     Console.WriteLine("===== RESUMEN DEL PEDIDO =====");
-    Console.WriteLine($"Tipo de pizza {tipoPizza}");
-    Console.WriteLine($"Ingredientes Salsa de tomate, mozzarella y {ingNoVeg[eleccionU2-1]}");
+    Console.WriteLine($"Tipo de pizza: {tipoPizza}");
+    Console.WriteLine($"Ingredientes: Tomate, mozzarella, {ingNoVeg[eleccionU2-1]}.");
     break;
 
     default:

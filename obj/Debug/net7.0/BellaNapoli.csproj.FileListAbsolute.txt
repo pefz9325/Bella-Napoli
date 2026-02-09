@@ -1,0 +1,14 @@
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\bin\Debug\net7.0\BellaNapoli.exe
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\bin\Debug\net7.0\BellaNapoli.deps.json
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\bin\Debug\net7.0\BellaNapoli.runtimeconfig.json
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\bin\Debug\net7.0\BellaNapoli.dll
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\bin\Debug\net7.0\BellaNapoli.pdb
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.AssemblyInfoInputs.cache
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.AssemblyInfo.cs
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.csproj.CoreCompileInputs.cache
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.dll
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\refint\BellaNapoli.dll
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.pdb
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\BellaNapoli.genruntimeconfig.cache
+C:\Users\enrri\Documents\Tareas_del_itla\Bella-Napoli\obj\Debug\net7.0\ref\BellaNapoli.dll
